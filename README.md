@@ -1,4 +1,10 @@
-## Hi there 👋
+## **seja bem vindo** 🇧🇷
+
+### Sou aluno da _Alura_ e aqui você verá meus projetos 
+### Meu e-mail 
+- 00001089927836sp@al.educacao.sp.gov.br
+
+![](https://media.tenor.com/8siMDYo74AQAAAAM/cassio-corinthians.gif)
 
 <!--
 **Camargo031/Camargo031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
